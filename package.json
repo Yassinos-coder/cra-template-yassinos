@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "cra-react-yassinos",
   "version": "1.0.0",
    "keywords": [
     "react",
@@ -9,7 +9,7 @@
   "description": "My React Template.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yassinos-Coder/react-template.git",
+    "url": "https://github.com/Yassinos-coder/cra-template-yassinos.git",
     "directory": "./"
   },
   "author": "Yassinos-Coder",
@@ -17,7 +17,7 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/Yassinos-Coder/react-template/issues"
+    "url": "https://github.com/Yassinos-coder/cra-template-yassinos/issues"
   },
   "license": "MIT",
   "files": [

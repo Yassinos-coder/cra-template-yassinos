@@ -1,5 +1,5 @@
 # React-Template
-
+[![Node.js Package](https://github.com/Yassinos-coder/cra-template-yassinos/actions/workflows/npm-publish.yml/badge.svg?branch=main)](https://github.com/Yassinos-coder/cra-template-yassinos/actions/workflows/npm-publish.yml) <br />
 This is a customized base template for [Create React App](https://github.com/facebook/create-react-app).
 
 # Pre-installed Packages 

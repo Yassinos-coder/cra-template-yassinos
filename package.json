@@ -1,0 +1,27 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+   "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "My React Template.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yassinos-Coder/react-template.git",
+    "directory": "./"
+  },
+  "author": "Yassinos-Coder",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/Yassinos-Coder/react-template/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
